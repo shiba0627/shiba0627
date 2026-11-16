@@ -11,7 +11,7 @@ Master's student (M2) at the University of Yamanashi, Japan — Kotani–Watanab
 - Homepage: https://shiba0627.github.io/
 
 ## Skills
-![Skills](https://skillicons.dev/icons?i=ros2,python,git,github,latex)
+![Skills](https://skillicons.dev/icons?i=ros,python,git,github,latex)
 
 
 <!--
