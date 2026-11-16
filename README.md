@@ -1,4 +1,3 @@
-## Hi there 👋
 # Naofumi Tonegawa （舍川尚史）
 
 Master's student (M2) at the University of Yamanashi, Japan — Kotani–Watanabe Laboratory (Mechatronics).
@@ -12,7 +11,7 @@ Master's student (M2) at the University of Yamanashi, Japan — Kotani–Watanab
 - Homepage: https://shiba0627.github.io/
 
 ## Skills
-
+https://skillicons.dev/icons?i=ros,python,git,github,latex
 
 
 <!--
