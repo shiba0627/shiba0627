@@ -11,6 +11,10 @@ Master's student (M2) at the University of Yamanashi, Japan — Kotani–Watanab
 
 - Homepage: https://shiba0627.github.io/
 
+## Skills
+
+
+
 <!--
 **shiba0627/shiba0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
