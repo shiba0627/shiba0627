@@ -1,4 +1,15 @@
 ## Hi there 👋
+# Naofumi Tonegawa （舍川尚史）
+
+Master's student (M2) at the University of Yamanashi, Japan — Kotani–Watanabe Laboratory (Mechatronics).
+
+## Research
+
+- Gaze-controlled powered wheelchair for people with severe physical disabilities
+
+## Links
+
+- Homepage: https://shiba0627.github.io/
 
 <!--
 **shiba0627/shiba0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
