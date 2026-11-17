@@ -1,10 +1,6 @@
 # Naofumi Tonegawa （舍川尚史）
 
-Master's student (M2) at the University of Yamanashi, Japan — Kotani–Watanabe Laboratory (Mechatronics).
-
-## Research
-
-- Gaze-controlled powered wheelchair for people with severe physical disabilities
+Master's student (M2) at the University of Yamanashi, Japan — Mechatronics course.
 
 ## Links
 
